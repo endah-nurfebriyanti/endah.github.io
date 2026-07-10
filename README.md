@@ -48,20 +48,20 @@ Designed and developed an interactive business intelligence dashboard to analyze
 
 ---
 
-### 📉 Data Analytics Portfolio Projects
+### 📈 Multi-Channel Sales Performance Dashboard
 
-A collection of data analytics projects demonstrating skills in exploratory data analysis (EDA), statistical analysis, data cleaning, dashboard development, and business intelligence using real-world datasets.
+Designed and developed an interactive business intelligence dashboard to analyze **IDR 3.02 billion** in multi-channel e-commerce sales across **Shopee, Tokopedia, Lazada, and Blibli**. The dashboard provides comprehensive insights into marketplace performance, sales trends, Average Order Value (AOV), refund analysis, product categories, and key performance indicators (KPIs) to support data-driven business decisions.
 
-**Project Topics**
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Data Preparation
-- Statistical Analysis
-- Interactive Dashboard Development
-- Business Intelligence Reporting
-- Data Visualization
+[![View Repository](https://img.shields.io/badge/View-Repository-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/endah-nurfebriyanti/multi-channel-sales-performance-dashboard)
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://datastudio.google.com/u/0/reporting/c192aa6d-5644-49a2-a53d-9ed69211c85e/page/gvvwF)
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, SQL, Microsoft Excel, Power BI, Google Looker Studio
+**Key Highlights**
+- Built an interactive KPI dashboard using Google Looker Studio.
+- Visualized revenue, sales quantity, refund value, Average Order Value (AOV), and refund rate.
+- Compared sales performance across Shopee, Tokopedia, Lazada, and Blibli.
+- Analyzed product categories, sales trends, and marketplace performance using dynamic filters.
 
+**Tools:** Google Looker Studio, Microsoft Excel
 ---
 
 ## 🛠️ Technical Skills
