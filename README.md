@@ -31,13 +31,12 @@ Developed a decision support system to evaluate and rank gold investment alterna
 **Tools:** Python, Microsoft Excel, Fuzzy TOPSIS, Entropy Weighting
 
 ---
-
 ### 📈 E-Commerce Global Sales Dashboard
 
 Designed and developed an interactive business intelligence dashboard to analyze **USD 8.02 million** in global e-commerce sales across **51K+ orders**. The dashboard provides comprehensive insights into sales performance, profitability, customer segments, product categories, regional distribution, and discount strategies to support data-driven business decisions.
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/endah-nurfebriyanti/ecommerce-global-sales-dashboard)
-[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)](https://datastudio.google.com/u/0/reporting/93749ec1-784f-42a1-aba0-af188bc19fa2/page/4JH0F)
+[![View Repository](https://img.shields.io/badge/View-Repository-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/endah-nurfebriyanti/ecommerce-global-sales-dashboard)
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://datastudio.google.com/reporting/93749ec1-784f-42a1-aba0-af188bc19fa2)
 
 **Key Highlights**
 - Built interactive KPI dashboards using Google Looker Studio.
@@ -62,8 +61,6 @@ A collection of data analytics projects demonstrating skills in exploratory data
 - Data Visualization
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, SQL, Microsoft Excel, Power BI, Google Looker Studio
-
-🔗 **Portfolio Repository:** *(Add your portfolio repository link here)*
 
 ---
 
@@ -136,9 +133,9 @@ I am continuously improving my skills in:
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/endah-nurfebriyanti-5b8200134/
-- **GitHub:** https://github.com/EndahNurfebriyanti
-- **Email:** *(add your professional email here)*
+- **LinkedIn:** https://www.linkedin.com/in/endahnurfebriyanti
+- **GitHub:** https://github.com/endah-nurfebriyanti
+- **Email:** endahnurfebriyanti@gmail.com
 
 ---
 
@@ -146,7 +143,7 @@ I am continuously improving my skills in:
 
 Visit my online portfolio:
 
-**https://endahnurfebriyanti.github.io/**
+**https://endahnurfebriyanti.github.io**
 
 ---
 
