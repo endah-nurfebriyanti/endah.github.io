@@ -18,24 +18,54 @@ I enjoy solving real-world problems using data and continuously learning modern 
 
 ## 🚀 Featured Projects
 
-### 📊 Gold Investment Decision Support System
-Developed a decision support system for selecting the best gold investment alternatives using **Fuzzy TOPSIS** and **Entropy Weighting** methods. The project includes comprehensive data analysis and interactive visualization.
+## 🚀 Featured Projects
 
-**Tools:** Python, Excel, Fuzzy TOPSIS, Entropy Weighting
+### 📊 Gold Investment Decision Support System
+
+Developed a decision support system to evaluate and rank gold investment alternatives using **Fuzzy TOPSIS** and **Entropy Weighting** methods. The project applies Multi-Criteria Decision-Making (MCDM) techniques to support objective investment decisions through mathematical modeling, data analysis, and interactive visualizations.
+
+**Key Highlights**
+- Applied Fuzzy TOPSIS for ranking investment alternatives.
+- Implemented Entropy Weighting to determine objective criteria weights.
+- Performed data preprocessing, analysis, and result visualization.
+- Developed a reproducible workflow for decision analysis.
+
+**Tools:** Python, Microsoft Excel, Fuzzy TOPSIS, Entropy Weighting
 
 ---
 
-### 📈 Sales Performance Dashboard
-Designed an interactive business dashboard to monitor sales performance, product trends, customer behavior, and regional performance.
+### 📈 E-Commerce Global Sales Dashboard
 
-**Tools:** Power BI, Excel, DAX, Power Query
+Designed and developed an interactive business intelligence dashboard to analyze **USD 8.02 million** in global e-commerce sales across **51K+ orders**. The dashboard provides comprehensive insights into sales performance, profitability, customer segments, product categories, regional distribution, and discount strategies to support data-driven business decisions.
+
+**Key Highlights**
+- Built interactive KPI dashboards using Google Looker Studio.
+- Visualized sales, profit, quantity sold, and profit margin.
+- Analyzed customer segments, product categories, and regional performance.
+- Created dynamic filters and drill-down reports for business analysis.
+
+**Tools:** Google Looker Studio, Microsoft Excel
+
+🔗 **Repository:** *(Add your GitHub repository link here)*  
+📊 **Live Dashboard:** *(Add your Looker Studio dashboard link here)*
 
 ---
 
 ### 📉 Data Analytics Portfolio Projects
-A collection of exploratory data analysis (EDA), visualization, statistical analysis, and dashboard projects using real-world datasets.
 
-**Tools:** Python, Pandas, Matplotlib, SQL, Power BI
+A collection of data analytics projects demonstrating skills in exploratory data analysis (EDA), statistical analysis, data cleaning, dashboard development, and business intelligence using real-world datasets.
+
+**Project Topics**
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Data Preparation
+- Statistical Analysis
+- Interactive Dashboard Development
+- Business Intelligence Reporting
+- Data Visualization
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, SQL, Microsoft Excel, Power BI, Google Looker Studio
+
+🔗 **Portfolio Repository:** *(Add your portfolio repository link here)*
 
 ---
 
@@ -85,9 +115,10 @@ Specialized in Mathematics with research interests in decision support systems, 
 
 ## 💼 Professional Experience
 
-- Lecturer in Primary School Teacher Education (PGSD)
-- Researcher in Applied Mathematics and Decision Support Systems
-- Data Analytics Enthusiast
+- 📊 **Data Analyst** — Educational Data Analysis, Dashboard Development, Data Visualization
+- 📚 **Mathematics Tutor** — Elementary, Junior High, and Senior High School
+- 📝 **Tutor Assessor** — Recruitment, Academic Assessment, and Performance Evaluation
+- 🔬 **Applied Mathematics Researcher** — Decision Support Systems, Statistics, and Data Analytics
 
 ---
 
