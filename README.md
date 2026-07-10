@@ -36,6 +36,9 @@ Developed a decision support system to evaluate and rank gold investment alterna
 
 Designed and developed an interactive business intelligence dashboard to analyze **USD 8.02 million** in global e-commerce sales across **51K+ orders**. The dashboard provides comprehensive insights into sales performance, profitability, customer segments, product categories, regional distribution, and discount strategies to support data-driven business decisions.
 
+[![Repository](https://img.shields.io/badge/Repository-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/endah-nurfebriyanti/ecommerce-global-sales-dashboard)
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-4285F4?style=for-the-badge&logo=googledatastudio&logoColor=white)](https://datastudio.google.com/u/0/reporting/93749ec1-784f-42a1-aba0-af188bc19fa2/page/4JH0F)
+
 **Key Highlights**
 - Built interactive KPI dashboards using Google Looker Studio.
 - Visualized sales, profit, quantity sold, and profit margin.
@@ -43,9 +46,6 @@ Designed and developed an interactive business intelligence dashboard to analyze
 - Created dynamic filters and drill-down reports for business analysis.
 
 **Tools:** Google Looker Studio, Microsoft Excel
-
-🔗 **Repository:** *https://github.com/endah-nurfebriyanti/ecommerce-global-sales-dashboard*  
-📊 **Live Dashboard:** *https://datastudio.google.com/u/0/reporting/93749ec1-784f-42a1-aba0-af188bc19fa2/page/4JH0F*
 
 ---
 
