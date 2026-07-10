@@ -18,8 +18,6 @@ I enjoy solving real-world problems using data and continuously learning modern 
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 📊 Gold Investment Decision Support System
 
 Developed a decision support system to evaluate and rank gold investment alternatives using **Fuzzy TOPSIS** and **Entropy Weighting** methods. The project applies Multi-Criteria Decision-Making (MCDM) techniques to support objective investment decisions through mathematical modeling, data analysis, and interactive visualizations.
